@@ -1,5 +1,5 @@
 import { Suspense } from "react"
-import { LineChart as LineChartIcon, Eye, Users, Clock, Heart, DollarSign, TrendingUp } from "lucide-react"
+import { ChartLine as LineChartIcon, Eye, Users, Clock, Heart, DollarSign, TrendingUp } from "lucide-react"
 import type { LucideIcon } from "lucide-react"
 import { getChannel, getAnalytics, sumWindow } from "@/lib/queries"
 import { PageHeader } from "@/components/app/page-header"
